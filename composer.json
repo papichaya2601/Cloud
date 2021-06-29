@@ -1,0 +1,15 @@
+{
+    "name": "asus/cloud",
+    "autoload": {
+        "psr-4": {
+            "Asus\\Cloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yeepoon",
+            "email": "ppapichaya0126@gmail.com"
+        }
+    ],
+    "require": {}
+}
